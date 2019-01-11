@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-float N=2,z,x,y=1/N;
-while(N<70){
+float N=6,z,x,y=1/N;
+while(N<20){
     x=x+(1/N);
     N=N+1;
 }
